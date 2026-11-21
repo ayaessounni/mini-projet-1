@@ -1,5 +1,11 @@
 # Mini-projet 1 : application Flask conteneurisée
 
+Liens du projet
+
+Dépôt GitHub : https://github.com/ayaessounni/mini-projet-1
+
+Image Docker Hub : https://hub.docker.com/r/ayaessounni/mini-app/tags
+
 Petite application web Flask qui affiche un message configurable.
 
 ## Image Docker Hub
